@@ -1,0 +1,14 @@
+I thought of uploading a Readme.txt file later with the intention to 
+provide important links:
+
+GitHub Repo Link-
+https://github.com/Shatarupa21/Computational-Neuroscience-Project/tree/Computational-neuroscience
+
+Springer Documentation Link-
+https://www.overleaf.com/project/63ec72a4876599d249c3a402
+
+Raw EEG datasets uploaded in the drive-
+https://drive.google.com/drive/folders/1nWL3sVAd19S75xezMTt8qWvIh3ZH86XE
+
+Drive link-
+https://drive.google.com/drive/folders/1LzRmTmHqk4lKMg6rzoEuaxMcXTFpov2e
